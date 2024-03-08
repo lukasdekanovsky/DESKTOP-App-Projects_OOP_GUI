@@ -1,6 +1,7 @@
 from turtle import Turtle
 import random
 
+
 class Food(Turtle):   # Food class is inherited from parent class Turtle = it has all the methods and attributes
 
     def __init__(self):   # initialization of the individual food dot 
