@@ -3,6 +3,7 @@ from turtle import Turtle
 #--------- CONSTANTS --------
 MOVE_SPEED = 10
 
+
 class Ball(Turtle):
 
     def __init__(self):
