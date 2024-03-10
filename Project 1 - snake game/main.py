@@ -38,23 +38,26 @@ def game():
             snake.extend_snake()
 
         if snake.snake_head.xcor() > 290 or snake.snake_head.xcor() < -290 or snake.snake_head.ycor() > 290 or snake.snake_head.ycor() < -290:
-            score.write_game_over()
-            game_on = False
+            score.reset()
+            play_again = screen.textinput(title="Game Over", prompt="Do you want to play again. Type 'y' or 'n': ").upper()
+            if play_again == "Y":
+                screen.listen()
+                snake.reset()
+            else:
+                game_on = False
 
         for segment in snake.segments:
             if segment == snake.snake_head:
                 pass
             elif snake.snake_head.distance(segment) < 5:
-                score.write_game_over()
-                game_on = False
-    
-    play_again = screen.textinput(title="Game Over", prompt="Do you want to play again. Type 'y' or 'n': ").upper()
-    if play_again == "Y":
-        screen.clear()
-        game()
-    
-    
-
+                score.reset()
+                play_again = screen.textinput(title="Game Over", prompt="Do you want to play again. Type 'y' or 'n': ").upper()
+                if play_again == "Y":
+                    screen.listen()
+                    snake.reset()
+                else:
+                    game_on = False
+            
 def main():
     game()
     screen.exitonclick()

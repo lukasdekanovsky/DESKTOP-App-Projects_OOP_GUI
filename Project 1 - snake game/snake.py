@@ -42,7 +42,11 @@ class Snake:
         self.add_segment(self.segments[-1].position())
     
     def reset(self):
-        self.__init__()
+        for segment in self.segments:
+            segment.goto(1000, 1000)
+        self.segments.clear()
+        self.create_snake()
+        self.snake_head = self.segments[0] 
 
     # onkey methods for setting the snake heading + avoiding moving up/down right/left forbidden moves
     # avoided moves aborded via self.facing_direction attribute
