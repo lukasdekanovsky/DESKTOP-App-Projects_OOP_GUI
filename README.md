@@ -1,1 +1,12 @@
+# 1 Snake game 
+![image](https://github.com/lukasdekanovsky/Projects_OOP_GUI/assets/118485944/56a387cd-2f13-4dae-b783-2b142a9f6064)
+# 2 Pong game 
+![image](https://github.com/lukasdekanovsky/Projects_OOP_GUI/assets/118485944/63e250ae-0212-4953-8cbb-144010130cb2)
+# 3 Turtle crossing
+![image](https://github.com/lukasdekanovsky/Projects_OOP_GUI/assets/118485944/f438a42d-0135-44e9-9544-ae82199b8fde)
+# 4 Education app
+![image](https://github.com/lukasdekanovsky/Projects_OOP_GUI/assets/118485944/d9e78822-23bd-49a7-91be-5bc2658b979a)
+# 6 Work focus 
+![image](https://github.com/lukasdekanovsky/Projects_OOP_GUI/assets/118485944/cfe4a5ee-fc2c-494a-86db-c380e445ebea)
+
 
