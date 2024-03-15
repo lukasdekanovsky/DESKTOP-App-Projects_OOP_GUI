@@ -8,5 +8,8 @@
 ![image](https://github.com/lukasdekanovsky/Projects_OOP_GUI/assets/118485944/d9e78822-23bd-49a7-91be-5bc2658b979a)
 # 6 Work focus 
 ![image](https://github.com/lukasdekanovsky/Projects_OOP_GUI/assets/118485944/cfe4a5ee-fc2c-494a-86db-c380e445ebea)
+# 7 Password manager
+<img width="371" alt="image" src="https://github.com/lukasdekanovsky/Desktop-App-Projects_OOP_GUI/assets/118485944/9ab530af-67fe-429f-88e0-056e7c56bf46">
+
 
 
