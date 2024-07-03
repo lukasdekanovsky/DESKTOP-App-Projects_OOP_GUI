@@ -9,7 +9,8 @@
 # 6 Work focus 
 ![image](https://github.com/lukasdekanovsky/Projects_OOP_GUI/assets/118485944/cfe4a5ee-fc2c-494a-86db-c380e445ebea)
 # 7 Password manager
-<img width="371" alt="image" src="https://github.com/lukasdekanovsky/Desktop-App-Projects_OOP_GUI/assets/118485944/9ab530af-67fe-429f-88e0-056e7c56bf46">
-
+<img width="371" alt="image" src="https://github.com/lukasdekanovsky/Desktop-App-Projects_OOP_GUI/assets/118485944/9ab530af-67fe-429f-88e0-056e7c56bf46">.
+# 8 Data vizualization tool 
+![341019028-37c3bdf4-0fa8-41ae-af5b-f7152b5dd8ca](https://github.com/lukasdekanovsky/Desktop-App-Projects_OOP_GUI/assets/118485944/d1229e1d-7be4-41a6-8eda-61f01fecafaf)
 
 
